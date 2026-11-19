@@ -49,9 +49,9 @@ const itemsData = [
             , img: 'assets/images/iceport.png', gallery: ['assets/images/iceport.png','assets/images/iceport1.png', 'assets/images/iceport2.png', 'assets/images/iceport3.png']
             , rel: 'https://ice-port-portfolio.vercel.app/' ,github: 'https://github.com/hanatrahightsensai-ops/ice-port-portfolio.git'},
 
-            { cat: 'selfdev', title: 'RuneVale!', rank: 'พัฒนาตัวเอง', date: '5 ต.ค.2569 - ปัจจุบัน', location: '', by: 'Myself'
+            { cat: 'selfdev', title: 'RuneVale!', rank: 'พัฒนาตัวเอง', date: '5 ต.ค.2569 - ปัจจุบัน', location: '', by: ''
             , desc: 'เกมนีได้รับแรงบันดาลใจจากเกมแนว Steal an Egg โดยเปลียนจากไข่ธรรมดาให้กลายเป็น "ดาบไข่คริสตัล"ในบรรยากาศโลกแฟนตาซีลึกลับทีเต็มไปด้วยคริสตัลซากโบราณสถานและบอสขนาดยักษ์ ผู้เล่นจะต้องออกไปล่าดาบไข่คริสตัลจากมอนเตอร์โลกแฟนตาซีลึกลับทีเต็มไปด้วยคริสตัลซากโบราณสถานและบอสขนาดยักษ์ผู้เล่นจะต้องออกไปล่าดาบไข่คริสตัลจากมอนสเตอร์และบอส จากนันต้องแบกมันฝาอันตรายกลับฐานให้ได้ก่อนจะโดนคนอืนแย่ง เมือนํามาฟักเป็น Hero เพือจากนันต้องแบกมันฝ่าอันตรายกลับฐานให้ได้ก่อนจะโดนคนอืนแย่งเมือนํามาฟักเป็น Hero เพือช่วย ฟาร์มเงินและทรัพยากรแล้ว ก็จะนําของทีได้มาคราฟดาบเล่มใหม่ทีแข็งแกร่งกว่าเดิม สิ่งที่ทำในกิจกรรมนี้: RuneVale! เกมแนว Fantasy Action บน Roblox ผู้เล่นสามารถพัฒนาละครและสะสมความแข็งแกร่งเพื่อสู้กับมอนสเตอร์เพื่อชิงดาบ และนำไปฟักที่ฐานดาบจะเปิดเป็น Unit ที่ช่วยสู้ตัวมอนเตอร์ในฐานตัวเอง โดยหน้าที่หลักของผมคือช่วงแรกออกแบบ UI ปุ่มกดและสามารถตอบสนองได้รวมถึงการสร้างไอคอนไอเทม และคัตซีนเนื้อเรื่องก่อนเข้าเกม ระบบสอนผู้เล่นผู้ใหม่ แต่ช่วงหลังผมได้หน้าที่หลักเป็น Developer ในการแก้ไขและปรับสมดุลของเกม สิ่งที่ผมได้เรียนรู้: ได้ทำเกมใน Roblox Studio ซึ่งเป็นความฝันในวัยเด็กของตนเองและทักษะการเขียนโค้ดในภาษา Lua รวมถึงการทำงานแบบ Logical Thinking โดยใช้ Obsidian'
-            , img: 'assets/images/RuneVale!1.png', gallery: ['assets/images/RuneVale!1.png', 'assets/images/RuneVale!2.png']
+            , img: 'assets/images/RuneVale!1.png', gallery: ['assets/images/RuneVale!1.png', 'assets/images/image0.png', 'assets/images/image1.png', 'assets/images/image2.png', 'assets/images/image3.png', 'assets/images/image4.png']
             , video: 'https://drive.google.com/file/d/12gqmcjoBRJYVkopdbxYmtZ-PwoQorckE/view?usp=sharing'
             , doc: 'https://runevale-garden.vercel.app'
             , rel: 'https://www.roblox.com/games/98409365965858/RuneVale' },
